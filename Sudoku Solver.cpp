@@ -92,7 +92,7 @@ void printGrid(int grid[N][N])
     }
 }
  
-/* Main */
+//Main
 int main()
 {
     int grid[N][N] = {{3, 0, 6, 5, 0, 8, 4, 0, 0},
